@@ -1,0 +1,16 @@
+{
+  "links": {
+    "home": "首页",
+    "about": "关于",
+    "english": "EN",
+    "chinese": "中"
+  },
+  "home": {
+    "title": "欢迎",
+    "introduction": "Awesome Vue简介"
+  },
+  "about": {
+    "title": "关于",
+    "introduction": "更多介绍"
+  }
+}
